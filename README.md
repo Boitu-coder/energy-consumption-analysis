@@ -19,4 +19,4 @@ This Power BI project explores global energy usage between 1990 and 2020 using:
 
 ## 📁 Files
 - `Energy-Consumption-Analysis.pbix`: Power BI dashboard
-- `st10123959_Boitumelo Chauke_BDMO A1.xlsx`: Dataset
+- `Boitumelo Chauke_Business Decision Modelling.xlsx`: Dataset
